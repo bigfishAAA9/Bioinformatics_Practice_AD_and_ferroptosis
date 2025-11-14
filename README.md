@@ -21,5 +21,7 @@
 ## 获取数据
 ### Step1
 GEO 检索: ((Alzheimer's disease AND Hippocampus) AND "Homo sapiens"[porgn:__txid9606])
+
 人工筛选，得到准入的数据集表格，见 ./1step/收集表.xlsx
+
 共有22个数据集，涵盖uid、GEOaccession、platform、sample_number(AD/NONAD)、sample_info五个维度信息
